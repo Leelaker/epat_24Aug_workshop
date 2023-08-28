@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # epat_24Aug_workshop
+# Git learning，pull from public repository, try to merge two branches with different father.
+# Git 操作的练习尝试！    By Li JiaLiang 李嘉亮
 =======
 # Reference
 
